@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Goodbye Letter</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+	<h1>Farewell, My Love</h1>
+	<p>As I write this letter, I can't help but feel a heavy heart. I never thought the day would come when we would have to say goodbye.</p>
+	<p>I will always cherish the memories we made together, the laughter we shared, and the love that bloomed between us.</p>
+	<p>I know that this is not the end, but merely a new beginning. I will carry you in my heart always, and I know that you will do the same.</p>
+	<p>Thank you for being a part of my life. I will never forget you.</p>
+	<p>With all my love,</p>
+	<p>[Your Name]</p>
+</body>
+</html>
+
+body {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 18px;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+	background-color: #fff;
+	color: #333;
+}
+
+h1 {
+	font-size: 36px;
+	margin: 0;
+	padding: 20px;
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+}
+
+p {
+	margin: 20px;
+	padding: 0;
+}
